@@ -70,7 +70,7 @@ Your_Key_Mapbox is available by creating a free account on <a href="https://www.
 </details>
 
 
-<h2>Finished</h2>
+<h2>Finished 🚩</h2>
 
 Run the server in your shell:
 
@@ -81,7 +81,7 @@ Stop the serveur:
 `ctrl` + `c`
 
 
-<h2>images</h2>
+<h2>images 🗺</h2>
 
 ![screen_helicia_1](https://github.com/katrinagh/Helicia/assets/130440038/463b6a81-5bac-402c-99a9-4b81dbf0c226)
 
