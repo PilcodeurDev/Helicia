@@ -70,7 +70,15 @@ Your_Key_Mapbox is available by creating a free account on <a href="https://www.
 </details>
 
 
+<h2>Finished</h2>
 
+Run the server in your shell:
+
+`bin/dev`
+
+Stop the serveur:
+
+`ctrl` + `c`
 
 
 <h2>images</h2>
