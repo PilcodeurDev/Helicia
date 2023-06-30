@@ -9,29 +9,28 @@ No... In truth, Helicia is the result of two weeks of teamwork with my collabora
 
 <h2>Features 📢</h2>
 
-  * Log-in/Sign-up
-  * Breadcrumb
-  * Smart Search-bar
-  * Breakpoints
-  * Cart
-  * Weight Gauge
-  * Map interactive
+  * Log-in/Sign-up :heavy_check_mark:
+  * Breadcrumb :heavy_check_mark:
+  * Smart Search-bar :heavy_check_mark:
+  * Breakpoints :heavy_check_mark:
+  * Cart :heavy_check_mark:
+  * Weight Gauge :heavy_check_mark:
+  * Map interactive :heavy_check_mark:
 
 And lots of other ideas but for lack of time, impossible to implement ... 😉
 
 <h2>Setup ⚙</h2>
 
-In-progress..
-<!--
-**⚠ Programming language: Ruby on Rails 7**
+
+**(Programming language: Ruby on Rails 7 :+1: )**
 
 
-**Clone Helicia in your local**
+ Clone Helicia in your local:
 ```
 gh repo clone PilcodeurDev/Helicia
 ```
 
-**Install all dependencies**
+Install all dependencies:
 
 Ruby of Rails:
 ```
@@ -49,7 +48,32 @@ creation of structure:
 rails db:create db:migrate
 ```
 
--->
+
+<h2>Recommanded 🌍💛</h2>
+
+<details>
+  <summary>Beautiful Interactive Map</summary>
+
+* Create ".env" file at the root level:
+  
+ ```
+touch .env && code .env
+```
+
+
+* and add this code:
+
+```
+MAPBOX_API_KEY=Your_Key_Mapbox
+```
+Your_Key_Mapbox is available by creating a free account on <a href="https://www.mapbox.com">Mapbox</a>(in 5 minutes).
+</details>
+
+
+
+
+
+<h2>images</h2>
 
 ![screen_helicia_1](https://github.com/katrinagh/Helicia/assets/130440038/463b6a81-5bac-402c-99a9-4b81dbf0c226)
 
